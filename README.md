@@ -1,4 +1,4 @@
-# practice-repo
+# practice-repo example
 
 Hello world!
 
