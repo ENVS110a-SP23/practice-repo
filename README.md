@@ -1,4 +1,4 @@
 # practice-repo example
 
-Hello cat!
+Hello dog!
 
